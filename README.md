@@ -12,4 +12,4 @@ Yi Qing Khoo | Tartine Bakery
 Terence Lin| Mcdonalds
 Michelle Quach | Cheesecake Factory 
 Heidi Shimek | Delarosa
-
+Charles Sy | Sqwers
