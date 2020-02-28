@@ -5,3 +5,4 @@ List of SF restaurants that our class should try!
 ---|---
 Lisa Leese | Flour + Water
 Flory Alano | Mister Jiu
+Yi Qing Khoo | Tartine Bakery
