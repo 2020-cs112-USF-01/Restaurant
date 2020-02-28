@@ -5,4 +5,8 @@ List of SF restaurants that our class should try!
 ---|---
 Lisa Leese | Flour + Water
 Flory Alano | Mister Jiu
-Shehre Rashik | Ba Som Thai 
+Yi Qing Khoo | Tartine Bakery
+Terence Lin| Mcdonalds
+Michelle Quach | Cheesecake Factory 
+Heidi Shimek | Delarosa
+Shehre Rashik | Ba Som Thai
