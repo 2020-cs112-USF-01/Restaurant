@@ -1,4 +1,5 @@
 
+
 # Restaurant
 List of SF restaurants that our class should try!
 
@@ -11,6 +12,7 @@ Yi Qing Khoo | Tartine Bakery
 Terence Lin| Mcdonalds
 Michelle Quach | Cheesecake Factory 
 Heidi Shimek | Delarosa
+Justin Chan | Tony's Cable Car
 Shehre Rashik | Ba Som Thai
 Annaliese Muth | Takara
 Grace Benton | Kaiju Eats Ramen 
@@ -19,3 +21,5 @@ Alex Kim | Mac'd
 Owen Peters | Uncle Boy's
 Dion Feng | Kowloon Tang
 Victoria Salinas | Beep's Burgers
+Charles Sy | Koja Kitchen
+
