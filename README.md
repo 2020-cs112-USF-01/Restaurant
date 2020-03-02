@@ -13,4 +13,4 @@ Shehre Rashik | Ba Som Thai
 Annaliese Muth | Takara
 Grace Benton | Kaiju Eats Ramen 
 Sydney Hanley | The Mill
-
+Alex Kim | Mac'd
