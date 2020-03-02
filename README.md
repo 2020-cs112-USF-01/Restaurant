@@ -10,3 +10,4 @@ Terence Lin| Mcdonalds
 Michelle Quach | Cheesecake Factory 
 Heidi Shimek | Delarosa
 Shehre Rashik | Ba Som Thai
+Annaliese Muth | Takara
