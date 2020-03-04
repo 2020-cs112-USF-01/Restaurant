@@ -6,7 +6,6 @@ List of SF restaurants that our class should try!
  NAME | RESTAURANT
 ---|---
 Lisa Leese | Flour + Water
-Flory Alano | Mister Jiu
 Ryan Dirajlal | Amber India
 Yi Qing Khoo | Tartine Bakery
 Terence Lin| Mcdonalds
